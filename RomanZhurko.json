@@ -1,0 +1,47 @@
+
+{
+   "FirstName":"Roman",
+   "LastName":"Zhurko",
+   "age":23,
+   "height":183,
+   "weight":69,
+   "hobbies":[
+      "travelling",
+      "cycling",
+      "gym",
+      "drawing",
+      "swimming"
+   ],
+   "education":{
+      "HigherEducation":"2017 - 2021 Belarusian State University of Informatics and Radioelectronics, specialty industrial electronics",
+      "EdditionalEducation":[
+         "Oct 2020 - june 2021 Streamline language school",
+         "Feb 2023 - may 2023: BELHARD IT-ACADEMY"
+      ]
+   },
+   "workexperience":"2021 – present time: Service Tehnika, position: electronics engineer",
+   "phonenamber":[
+      "375292033389",
+      "79258572809"
+   ],
+   "skills":[
+      "Understanding of the software testing processes, types and levels of software testing ",
+      "Experience creation and maintenance of Test documentation (Test Plan, Test Cases, Bug Reports, Test Result Reports, Requirement analysis and testing)",
+      "Understanding of main software development methodologies (Waterfall, Agile)",
+      "Basic knowledge of SQL, Git",
+      "Programming Language: C++ - basic level ",
+      "Experience with Figma, Adobe illustrator, Adobe Photoshop"
+   ],
+   "email":"zurko.roman@mail.ru",
+   "englishLevel":"intermediate",
+   "PersonalQualities":[
+      "responsibility",
+      "diligence",
+      "accuracy",
+      "attention to detail",
+      "discipline",
+      "organization",
+      "punctuality",
+      "curiosity"
+   ]
+}
